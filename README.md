@@ -1,0 +1,4 @@
+# Tkinter
+基于python的tkinter模块+SQLServer实现的简易图书管理系统
+本程序基本涵盖了Tkinter的主流用法，以及python如何连接SQLServer数据库。
+
